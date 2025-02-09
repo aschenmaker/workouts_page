@@ -11,15 +11,15 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Workouts Map',
-  siteUrl: 'https://ben29.xyz',
+  siteTitle: '骑行轨迹',
+  siteUrl: 'https://cyc.cqs.es',
   logo: 'https://avatars3.githubusercontent.com/u/6956444?s=460&u=97e1062227c4088db3c987146455245c6fa78441',
-  description: 'Personal site and blog',
+  description: 'My cycling records',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
-      name: 'Blog',
-      url: 'https://ben29.xyz',
+      name: 'Home',
+      url: 'https://cqs.es',
     },
     {
       name: 'About',
